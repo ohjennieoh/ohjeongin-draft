@@ -17,7 +17,7 @@
 </p>
 
 **Why categorise services by growth stage first?** \
-While each service defines success differently (refer to Table 1), services at the same growth stage generally share an overarching goal. Therefore, it is more efficient to first categorise services by growth stage, then refine these categories based on service-specific needs when defining key performance metrics.
+While each service defines success differently (refer to *Table 1*), services at the same growth stage generally share an overarching goal. Therefore, it is more efficient to first categorise services by growth stage, then refine these categories based on service-specific needs when defining key performance metrics.
 
 **What are the roles of "Primary Success Metric", "Potential Drivers", "Supporting Metrics", and "Guardrail Metrics"?**
 * **Primary Success Metric**: the key metric already defined by the service team, used to align the goals of the service and chat teams.
