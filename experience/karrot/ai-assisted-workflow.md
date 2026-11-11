@@ -28,3 +28,6 @@ I started with simple queries to verify that the output was formatted and presen
   * PMs could revisit previously written queries and understand their purpose and logic, making existing analyses easier to reuse.
 * Claude provided preliminary checks and suggestions, helping PMs investigate issues before seeking further assistance.
 * Established a more consistent SQL review process through structured checks of query logic, CTE dependencies, and edge cases.
+
+[< Karrot](README.md) \
+[< Main](../../README.md)
