@@ -11,6 +11,6 @@ As a **shared touchpoint** for services at different stages of growth, the team 
 | Contributions | Explanation | Key Skills |
 | :---: | --- | --- |
 | [OKR Dashboard](experience/karrot/okr-dashboard.md) | Defined key business performance metrics and built a team dashboard | SQL, Stakeholder Management, Data Visualization |
-| AB Testing | Supported AB Test design by identifying key metrics to measure | Experiment Design, Metric Definition |
+| AB Test Design | Supported AB Test design by identifying key metrics to measure | Experiment Design, Metric Definition |
 | AI-Assisted Workflow | Created a CLAUDE SKILL to improve the team's data workflow | Prompt Engineering, Workflow Improvement |
 | Product Improvement Proposal | Proposed improvements to increase user engagement with a key feature | Data Analysis, Product Thinking |
