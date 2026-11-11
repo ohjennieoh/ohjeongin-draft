@@ -13,7 +13,7 @@
   
 ### Approach & Rationale
 <p align="center">
-  <img src="okr-dashboard-process.png" alt="OKR dashboard development process" width="600">
+  <img src="okr-dashboard-procedure.png" width="600">
 </p>
 
 **Why categorise services by growth stage first?** \
