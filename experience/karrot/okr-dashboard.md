@@ -57,5 +57,5 @@ Documentation records the rationale behind each metric, the cohort it covers (wi
   * Helped the team align with engineers on project priorities based on key metric trends.
 * Made the business impact of engineering work more visible, helping engineers understand how their contributions relate to broader service outcomes.
 
-[> Karrot](experience/karrot) \
-[> Main](README.md)
+[> Karrot](README.md) \
+[> Main](ohjeongin-en)
