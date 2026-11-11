@@ -1,6 +1,6 @@
 # Oh Jeongin
 
-My experience, responsibilities, and contributions.
+My work experiences, responsibilities, and contributions.
 
 Email: jeonginoh.jennie@gmail.com
 Linkedin: www.linkedin.com/in/jeonginoh/
