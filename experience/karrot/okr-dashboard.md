@@ -24,6 +24,7 @@
 </table>
 
 <p align="center"><em>Table 1. Potential chat needs across service growth stages.</em></p>
+3. Engineers had limited visibility into how their work contributed to service performance, making it difficult to recognise their impact.
 
 ### My Role
 Built the dashboard from the ground up, identifying candidate metrics, incorporating service-specific context through discussions with service teams, writing SQL queries, and documenting metric definitions and interpretation guidelines.
@@ -47,7 +48,14 @@ While each service defines success differently (refer to *Table 1*), services at
 **Why is documentation necessary?** \
 Documentation records the rationale behind each metric, the cohort it covers (with a diagram for clarity), and the SQL query used to extract the data. It serves as a reference for investigating unexpected data patterns and identifying potential issues.
 > [!TIP]
-> See AI-Assisted Workflow for how this documentation helped improve the team’s data workflow.
+> See [AI-Assisted Workflow](ai-assisted-workflow.md) for how this documentation helped improve the team’s data workflow.
 
 ### Outcome
 
+* Enabled quantitative assessment of the team’s contribution to service performance across the company.
+* Supported data-driven decision-making during weekly team meetings.
+  * Helped the team align with engineers on project priorities based on key metric trends.
+* Made the business impact of engineering work more visible, helping engineers understand how their contributions relate to broader service outcomes.
+
+[> Karrot](experience/karrot) \
+[> Main](ohjeongin-en/README.md)
