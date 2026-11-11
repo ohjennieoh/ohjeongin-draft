@@ -3,6 +3,7 @@
 My experience, responsibilities, and contributions.
 
 Email: jeonginoh.jennie@gmail.com
+Linkedin: www.linkedin.com/in/jeonginoh/
 
 ## Education
 
