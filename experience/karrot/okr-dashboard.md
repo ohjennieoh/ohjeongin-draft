@@ -58,4 +58,4 @@ Documentation records the rationale behind each metric, the cohort it covers (wi
 * Made the business impact of engineering work more visible, helping engineers understand how their contributions relate to broader service outcomes.
 
 [> Karrot](experience/karrot) \
-[> Main](ohjeongin-en/README.md)
+[> Main](README.md)
