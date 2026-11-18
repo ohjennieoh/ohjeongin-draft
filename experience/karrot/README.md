@@ -13,6 +13,6 @@ As a **shared touchpoint** for services at different stages of growth, the team 
 | [OKR Dashboard](okr-dashboard.md) | Defined key business performance metrics and built a team dashboard | SQL, Stakeholder Management, Data Visualization |
 | [AB Test Design](ab-test-design.md) | Supported AB Test design by identifying key metrics to measure | Experiment Design, Metric Definition |
 | [AI-Assisted Workflow](ai-assisted-workflow.md) | Created a CLAUDE SKILL to improve the team's data workflow | Prompt Engineering, Workflow Improvement |
-| [Product Targeting Improvement][(product-targeting-improvement.md) | Proposed improvements to increase user engagement with a key feature | Data Analysis, Product Thinking |
+| [Product Targeting Improvement](product-targeting-improvement.md) | Proposed improvements to increase user engagement with a key feature | Data Analysis, Product Thinking |
 
 [< Main](../../README.md)
