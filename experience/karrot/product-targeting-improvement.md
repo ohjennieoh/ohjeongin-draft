@@ -14,7 +14,7 @@ Identified ineffective user targeting through performance metrics analysis and d
 ### Approach & Rationale
 
 <p align="center">
-  <img src="product-targeting-procedure.jpg" alt="Feature Targeting Improvement Process" width="800">
+  <img src="product-targeting-procedure.jpg" alt="Feature Targeting Improvement Process" width="700">
   <br>
   <em>Figure 1. Data-Driven Feature Targeting Improvement Process .</em>
 </p>
