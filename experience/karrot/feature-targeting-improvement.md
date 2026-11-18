@@ -1,5 +1,5 @@
 
-# Feature Targeting Improvement Proposal
+# User Targeting Improvement Proposal
 
 ### Team's Pain Point
 
@@ -12,6 +12,12 @@ Identified ineffective user targeting through performance metrics analysis and d
 
 
 ### Approach & Rationale
+
+<p align="center">
+  <img src="feature-targeting-procedure.jpg" alt="Feature Targeting Improvement Process" width="600">
+  <br>
+  <em>Figure 1. Data-Driven Feature Targeting Improvement Process .</em>
+</p>
 
 1. **Identify performance issues**: Analyzed the performance metrics I developed to identify features with opportunities for improvement.
 2. **Investigate user targeting**:
