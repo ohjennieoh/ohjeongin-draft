@@ -41,3 +41,6 @@ Identified ineffective user targeting through performance metrics analysis and d
 
 - Identified irrelevant feature triggers through chat data analysis and proposed refining keywords to improve targeting accuracy.
 - Drafted a data-driven feature targeting improvement proposal to reduce unnecessary exposure and improve user engagement.
+
+[< Karrot](README.md) \
+[< Main](../../README.md)
