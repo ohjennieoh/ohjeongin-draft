@@ -12,10 +12,10 @@ Linkedin: www.linkedin.com/in/jeonginoh/
 ### Karrot
 **Data Analyst Intern | May 2026 – Aug 2026**
 
-- Built a [team OKR dashboard](experience/karrot/okr-dashboard.md) from the ground up, defining key metrics across varying service growth stages to support performance monitoring and data-driven decision-making.
-- Wrote 200+ SQL queries and refined data visualizations to translate complex data into clear, actionable insights for the team.
-- Created and shared a [Claude SKILL](experience/karrot/ai-assisted-workflow.md) for AI-assisted query testing to identify edge cases, and documentation of CTE dependencies or JOIN relationships, improving analytical efficiency and reproducibility.
-- Led cross-functional discussions with service teams to align key metrics with annual goals and incorporate business context into performance measurement.
+- Built the [OKR dashboard](experience/karrot/okr-dashboard.md) from the ground up, identifying candidate metrics, incorporating service-specific context through discussions with service teams, writing SQL queries, and documenting metric definitions and interpretation guidelines.
+- Supported [A/B test design](experience/karrot/ab-test-design.md) by discussing the test objective with the PM, identifying candidate metrics, assessing their feasibility using available data, and explaining the rationale behind the proposed evaluation metrics.
+- Designed and refined a Claude Skill to provide the team with [AI-assisted](experience/karrot/ai-assisted-workflow.md) SQL review, troubleshooting, and query documentation.
+- Identified ineffective user targeting through performance metrics analysis and drafted a [feature targeting improvement](experience/karrot/feature-targeting-improvement.md) proposal to address unnecessary feature exposure and low CTR.
 
 *[> Learn More](experience/karrot)*
 
