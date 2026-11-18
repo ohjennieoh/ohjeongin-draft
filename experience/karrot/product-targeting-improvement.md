@@ -31,6 +31,7 @@ Identified ineffective user targeting through performance metrics analysis and d
 
 **Balancing CTR improvement with user experience**:
    - Recognized that more precise targeting would reduce total impressions, potentially increasing CTR simply by removing irrelevant exposures rather than generating more clicks.
+     - CTR = click / impressions
    - Considered the trade-off between maximizing feature exposure and ensuring relevance to users.
    - Acknowledged that the reduction in impressions was an expected and acceptable trade-off, as the service team's primary objective was to improve user experience rather than maximize feature visibility.
    - Discussed with both the service team and the chat team how refined targeting could reduce impressions while potentially increasing CTR, aligning on the trade-off as an acceptable cost of improving user experience.
