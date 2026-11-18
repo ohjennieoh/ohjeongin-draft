@@ -1,5 +1,5 @@
 
-# User Targeting Improvement Proposal
+# Feature Targeting Improvement Proposal
 
 ### Team's Pain Point
 
